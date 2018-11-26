@@ -1,5 +1,7 @@
 # spring-cloud-stream-rabbitMq
 
+Implement to consumer service that read data from a RabbitMQ and store in the database using springboot and spring cloud stream
+
 This service received data from a post request
 
 
