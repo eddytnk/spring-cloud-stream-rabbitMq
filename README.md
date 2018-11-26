@@ -19,8 +19,10 @@ The consumer/ConsumerService Listen to the queue and when there is a new message
 You can run `GET http:IP:port/items` to see all Items saved in database
 
 Database: H2
+
 MessageQueue: RabbitMQ
+
 Tech: Spring Cloud Stream
 
 
-The consumer and producer are normally two seperate applications but i merge the here for convenience 
+The consumer and producer are normally two separate applications but I merged the here for convenience 
